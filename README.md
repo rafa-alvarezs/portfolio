@@ -1,4 +1,4 @@
-#Rafaela Alvarez
-##Machine Learning & Data Science
+# Rafaela Alvarez
+achine Learning & Data Science
 ### Education
 BSc Statistics, University of Toronto
